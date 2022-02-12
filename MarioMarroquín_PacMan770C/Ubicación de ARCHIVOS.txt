@@ -2,3 +2,5 @@ El código fuente está dentro de la carpeta "src/pac/man/pkg770c"
 El JAR esta dentro de la carpeta "dist"
 
 Hice la practica en "Java with Ant", no conocía sobre "Java with Maven".
+
+Repositorio donde solo está el JAR y el codigo fuente: https://github.com/MarioMarroquin19/IPC1_Practica1__202110509.git
